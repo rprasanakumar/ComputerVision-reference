@@ -1,0 +1,11 @@
+Assignment 4 -- Final Project -- Creating Dataset
+The final project for this semester is analyzing the pokemon smile
+
+Classify the pokemon, recognize its CP&HP, etc.
+
+We are collecting dataset now. We need:  
+
+    40 images from 20 different types of pokemon. 
+    The image name should contain the ground truth label (format is explained in the slides).
+
+This assignment is optional. 20 points will be given as extra credit for helping build the dataset.
